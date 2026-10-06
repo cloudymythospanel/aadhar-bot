@@ -1,0 +1,4 @@
+requests
+PyPDF2
+ddddocr
+pysocks
